@@ -24,7 +24,8 @@
     "paths": {
       "@/*": [
         "./src/*"
-      ]
+      ],
+      "@/Dashboard/*": ["src/pages/Dashboard/*"]
     }
   },
   "include": ["src"],
